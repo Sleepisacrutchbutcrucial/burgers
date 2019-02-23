@@ -1,0 +1,28 @@
+{
+  "name": "burgers",
+  "version": "1.0.0",
+  "description": "Was unable to identify a way for the user to place text into the add burger bar so\r I went with a drop down menu.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.1",
+    "mysql": "^2.16.0",
+    "node": "^11.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sleepisacrutchbutcrucial/burgers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sleepisacrutchbutcrucial/burgers/issues"
+  },
+  "homepage": "https://github.com/Sleepisacrutchbutcrucial/burgers#readme"
+}
